@@ -12,3 +12,14 @@ git init(只做一次)
 
 
 git pull(共用拉下來)
+
+
+     cd 東西拉進來
+
+     dir
+
+     git add .
+
+     git commit -m "first commit"
+
+     git push
